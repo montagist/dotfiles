@@ -1,0 +1,12 @@
+[alias]
+    br = branch
+    co = checkout
+    cm = commit -s -m
+    df = diff --color
+    dfc = diff --color --cached
+    lg = log --oneline --color
+    rf = fetch --all --prune
+[user]
+    name = Montagist
+    email = montagist@gmail.com
+
